@@ -39,7 +39,7 @@ Instanaは１つのエージェントで、これら３つのシグナルを自�
 ## ハンズオン環境の準備
 このハンズオンでは、Instana のデモ環境を利用して、実際に稼働する Instana の環境を確認していきます。
 
-[https://instana.automate-your.work/](https://instana.automate-your.work/) をクリックしますと、以下の画面が開きますので、講師より配布されたE-mailとパスワードを入力して**Sign In**のボタンをクリックしてInstanaにログインします。  
+講師から指定されたInstanaへの接続URLをクリックしますと、以下の画面が開きますので、講師より配布されたE-mailとパスワードを入力して**Sign In**のボタンをクリックしてInstanaにログインします。  
 <img width="300" alt="image" src="images/instana-sign-in-001.png">
 
 環境が開いて、準備できたら、[こちらからStep By Stepのハンズオン](infrastructure%26platform.md)を開始しましょう。
